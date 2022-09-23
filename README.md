@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhnguy
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Linux and Python
+- 🌱 I’m currently learning Linux and GO
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me nguyenhdavid@hotmail.com
 
